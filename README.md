@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/Banner_Profile.png" alt="Swapon Islam Banner" />
+  <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/Banner_Profile.png" alt="Swapon Islam Banner" style="height: 250px; object-fit: cover;" />
 </p>
+
 
 <h1 align="center">Hey there! I'm Swapon Islam 👋</h1>
 
