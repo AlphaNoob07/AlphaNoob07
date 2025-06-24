@@ -1,15 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Swapon Islam</h1>
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hey there! I'm Swapon Islam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AR/VR+Developer+%7C+Unity+%7C+Unreal+%7C+Kinect+%7C+AI+%7C+Game+Designer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swapon-islam-57a55111b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:swapon.dreamerzlab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://github.com/AlphaNoob07">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AR%2FVR+Developer;Game+Programmer;Unity+%7C+Unreal+Expert;Kinect+Motion+Control;Let's+Build+Immersive+Worlds" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,65 +12,65 @@
 
 ### 👨‍💻 About Me
 
-🎮 Passionate Game Developer with expertise in:
+I'm a passionate **AR/VR Developer** with a strong background in game design, interactive systems, and immersive tech experiences. From **Kinect motion games** to **cross-platform multiplayer card games**, I love crafting dynamic and user-centered digital worlds.
 
-- **AR/VR/MR Solutions**
-- **Unity & Unreal Engine Development**
-- **AI & Multiplayer Game Logic**
-- **Kinect-based Interaction & Motion Control**
-- **Cross-platform Optimization (PC, Oculus, Android, iOS, Lenovo VR, etc.)**
-
-🌟 Focused on building **immersive, interactive, and meaningful experiences** through cutting-edge game technologies.
-
-🚀 Currently working on:
-- Advanced **Teen Patti Multiplayer Card Game** (Photon)
-- Interactive **Kinect-based Educational & Motion Games**
-- **Booth-based AR/VR tech demos** and **product visualizers**
-- AI-enhanced **3D fitting room** & **virtual try-on** apps
+- 🔭 Currently building: Multiplayer games, virtual showrooms, AI-based fitting rooms
+- 🧠 Learning more about: XR prototyping, UEFN, AI-driven AR recommendations
+- 💼 Experienced in Unity, Unreal Engine, Photon, ARCore/ARKit, Kinect
+- 🎯 Fun fact: I love turning real-world motion into digital magic!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech & Tools
 
-- **Languages:** C#, C++, Python, GLSL, Verse
-- **Engines:** Unity3D, Unreal Engine 5, UEFN
-- **XR SDKs:** ARFoundation, ARKit, ARCore, MRTK, Oculus SDK
-- **Multiplayer:** Photon PUN 2, Mirror
-- **Tools:** Git, Blender, Adobe CC, Firebase, PlayFab
-- **Platforms:** Windows, Android, iOS, Oculus, HoloLens
+- **Languages:** C#, C++, Verse, Python
+- **Game Engines:** Unity, Unreal Engine 5, UEFN
+- **XR Frameworks:** ARFoundation, MRTK, Oculus SDK, ARKit, ARCore
+- **Multiplayer:** Photon PUN 2, Mirror, Unity Netcode
+- **Other Tools:** Git, Blender, Firebase, Adobe CC, Visual Scripting
+- **Platforms:** PC, Oculus Quest 2, Android, iOS, Lenovo VR, HoloLens
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaNoob07&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=radical&hide=issues" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNoob07&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🧩 Featured Projects
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/swapon-islam-57a55111b/)
-- 📧 Email: **swapon.dreamerzlab@gmail.com**
-- 🎮 Portfolio/Website: *Coming Soon*
+- 🃏 **Teen Patti Multiplayer**  
+  *Photon-powered Unity card game supporting 6 players with real-time logic and turn-based flow.*
 
----
+- 🎯 **Kinect-based Motion Game**  
+  *Red Light, Green Light gameplay using body tracking — movement = elimination!*
 
-### 📌 Featured Projects
+- 🛍 **AR Fitting Room + AI**  
+  *Smart clothing try-on using ARCore/ARKit, computer vision & personalized size recommendations.*
 
-- 🃏 **Teen Patti Multiplayer (Unity + Photon)**
-- 🧍‍♂️ **Kinect Motion Game – "Red Light, Green Light"**
-- 🛍 **AI AR Clothing Try-On Experience**
-- 🏆 **VR Booth: Interactive AI Hardware Showroom**
-
----
-
-### 💬 Let’s Collaborate
-
-Whether you have a cool idea or just want to chat about AR/VR, multiplayer logic, or game development — feel free to reach out!
+- 🧠 **VR Booth + AI Showcase**  
+  *Interactive VR/AR tech product experience booth with character AI.*
 
 ---
 
-_✨ Keep building, keep dreaming!_
+### 🤝 Let's Connect
+
+- [💼 LinkedIn](https://www.linkedin.com/in/swapon-islam-57a55111b/)
+- 📫 Email: `swapon.dreamerzlab@gmail.com`
+- 🌐 Portfolio: *Coming soon!*
+
+---
+
+### 🧠 Quote I Live By
+
+> _"Innovation distinguishes between a leader and a follower." – Steve Jobs_
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
