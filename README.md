@@ -69,7 +69,7 @@ I bring a blend of creativity and technical expertise to produce immersive game 
 
 - [💼 LinkedIn](https://www.linkedin.com/in/swapon-islam-57a55111b/)  
 - 📫 Email: `swapon.dreamerzlab@gmail.com`  
-- 🌐 Portfolio: *Coming soon!*
+- 🌐 Portfolio: (https://gdev-portfolio.onrender.com/)
 
 ---
 
