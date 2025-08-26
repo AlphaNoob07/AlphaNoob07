@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/banner.jpg" alt="Swapon Islam Banner" style="height: 250px; object-fit: cover;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=200&section=header&text=Swapon%20Islam%20👾&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AR/VR%20Developer%20|%20Game%20Programmer%20|%20Unity%20%26%20Unreal%20Enthusiast&descAlignY=70&descAlign=60" alt="header"/>
 </p>
 
 <h1 align="center">✨ Welcome to My Immersive World ✨</h1>
@@ -68,6 +68,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaNoob07&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
