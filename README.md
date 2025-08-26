@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/banner.jpg" alt="Swapon Islam Banner" style="height: 250px; object-fit: cover; border-radius: 12px; box-shadow: 0px 0px 15px #00f5ff;" />
 </p>
 
-<h1 align="center">🌌 Welcome to My Immersive Dark World 🌌</h1>
+<h1 align="center">✨ Welcome to My Immersive World ✨</h1>
 
 <p align="center">
   <a href="https://github.com/AlphaNoob07">
@@ -18,7 +18,7 @@
 - 🎮 AR/VR **experience creator** | Unity & Unreal  
 - 🧍 Kinect / Azure Kinect **motion games**  
 - 🚀 Exploring **AI-powered XR fusion**  
-- 🌍 Love blending **creativity & code** to bring ideas alive  
+- 🌍 Love blending **creativity & code** to make ideas alive  
 
 ---
 
@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity3D-0d1117?&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Photon-0d1117?&logo=photon&logoColor=00f5ff" />
-  <img src="https://img.shields.io/badge/-ARCore-0d1117?&logo=google&logoColor=green" />
+  <img src="https://img.shields.io/badge/-ARCore-0d1117?&logo=google&logoColor=32CD32" />
   <img src="https://img.shields.io/badge/-Oculus-0d1117?&logo=oculus&logoColor=white" />
 </p>
 
@@ -63,11 +63,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaNoob07&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlphaNoob07&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaNoob07&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaNoob07&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
@@ -76,15 +76,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swapon-islam-57a55111b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:gdev.swapon@gmail.com"><img src="https://img.shields.io/badge/-Email-ff4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://gdev-portfolio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:gdev.swapon@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://gdev-portfolio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧠 Quote I Live By  
 
-> *“Innovation distinguishes between a leader and a follower.”* – Steve Jobs  
+> “Innovation distinguishes between a leader and a follower.” – Steve Jobs  
 
 ---
 
