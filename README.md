@@ -1,17 +1,19 @@
 <!-- Banner -->
-<p align="center">
+<p align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
   <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/banner.jpg" alt="Swapon Islam Banner" style="height: 250px; object-fit: cover; border-radius: 12px; box-shadow: 0px 0px 15px #00f5ff;" />
 </p>
 
-<h1 align="center">✨ Welcome to My Immersive World ✨</h1>
+<h1 align="center" style="color:#c9d1d9;">✨ Welcome to My Immersive World ✨</h1>
 
-<p align="center">
+<p align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
   <a href="https://github.com/AlphaNoob07">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=🎮+Crafting+Games;🥽+Building+AR%2FVR+Worlds;🧍‍♂️+Motion+Tracking+Experiences;🚀+AI+%2B+XR+Fusion;💡+Innovation+%3D+My+Fuel" alt="Typing SVG" />
   </a>
 </p>
 
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 🧑‍💻 About Me  
 
@@ -20,7 +22,11 @@
 - 🚀 Exploring **AI-powered XR fusion**  
 - 🌍 Love blending **creativity & code** to make ideas alive  
 
+</div>
+
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 🛠 Skills & Tech Stack  
 
@@ -28,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,python,blender,git,firebase,figma&theme=dark" />
 </p>
 
-<table align="center" style="background-color:#0d1117; color:#c9d1d9; border-radius:12px; padding:8px;">
+<table align="center" style="background-color:#161b22; color:#c9d1d9; border-radius:12px; padding:8px;">
 <tr><td align="center"><b>💻 Languages</b></td><td>C#, C++, Python, Verse</td></tr>
 <tr><td align="center"><b>🎮 Game Engines</b></td><td>Unity3D, Unreal Engine 5, UEFN</td></tr>
 <tr><td align="center"><b>🥽 XR Frameworks</b></td><td>ARFoundation, MRTK, Oculus SDK, ARKit, ARCore</td></tr>
@@ -37,7 +43,11 @@
 <tr><td align="center"><b>📱 Platforms</b></td><td>PC, Android, iOS, Oculus, HTC Vive, HoloLens</td></tr>
 </table>
 
+</div>
+
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 🚀 Featured Projects  
 
@@ -53,13 +63,17 @@
 👕 **AI AR Fitting Room** – ARCore/ARKit try-on with Computer Vision  
 🕶 **VR/AR Booth Showcase** – Interactive XR booth with AI  
 
+</div>
+
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=tokyonight&hide=issues&bg_color=0d1117&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaNoob07&theme=tokyonight&background=0d1117&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=tokyonight&hide=issues&bg_color=0d1117&hide_border=true&title_color=00F5FF&icon_color=00F5FF" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaNoob07&theme=tokyonight&background=0d1117&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="160px"/>
 </p>
 
 <p align="center">
@@ -67,10 +81,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaNoob07&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaNoob07&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00F5FF&point=00F5FF" />
 </p>
 
+</div>
+
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 🤝 Connect With Me  
 
@@ -80,11 +98,17 @@
   <a href="https://gdev-portfolio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
+</div>
+
 ---
+
+<div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:12px;">
 
 ## 🧠 Quote I Live By  
 
 > “Innovation distinguishes between a leader and a follower.” – Steve Jobs  
+
+</div>
 
 ---
 
