@@ -3,79 +3,92 @@
   <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/main/banner.jpg" alt="Swapon Islam Banner" style="height: 250px; object-fit: cover;" />
 </p>
 
-
-<h1 align="center">Hey there! I'm Swapon Islam 👋</h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#00F5FF">Swapon Islam</span></h1>
 
 <p align="center">
   <a href="https://github.com/AlphaNoob07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AR%2FVR+Developer;Game+Programmer;Unity+%7C+Unreal+Expert;Kinect+Motion+Control;Let's+Build+Immersive+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=🎮+AR%2FVR+Developer;🕹+Game+Programmer;💻+Unity+%7C+Unreal+Expert;🧍‍♂️+Kinect+Motion+Control;🚀+Let's+Build+Immersive+Worlds" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🎮 My Game & AR/VR Work
+## 🌟 About Me  
 
-I bring a blend of creativity and technical expertise to produce immersive game and AR/VR experiences:
-
-- **Augmented Reality experiences** for web, Android, iOS—3D visualizations, virtual try-ons, location‑based AR, interactive games using Unity3D, C# & AR SDKs :contentReference[oaicite:1]{index=1}  
-- **Hyper‑casual & hybrid mobile games** built with scalable C# code in Unity3D for iOS and Android :contentReference[oaicite:2]{index=2}  
-- **Kinect‑driven games**, including motion-tracked titles like "Red Light, Green Light" and educational simulations using Kinect / Azure Kinect DK :contentReference[oaicite:3]{index=3}  
-- **AR SDKs** I’m proficient with: ARFoundation, ARCore, ARKit, Vuforia, Immersal, EasyAR, WebAR, Wikitude, 8thWall, MapBox :contentReference[oaicite:4]{index=4}  
-- **VR platforms**: Oculus (Quest/Rift), SteamVR, OpenXR, HTC Vive & Pico support :contentReference[oaicite:5]{index=5}
+🔹 Passionate **AR/VR Developer** & **Game Programmer**  
+🔹 Crafting **immersive XR experiences** powered by Unity, Unreal, and AI  
+🔹 Specialized in **motion tracking, multiplayer, and interactive 3D worlds**  
 
 ---
 
-## 🛠 Tech & Tools
+## 🎮 My Game & AR/VR Work  
 
-| Category       | Tools & Technologies |
-|----------------|----------------------|
-| **Languages**  | C#, C++, Verse, Python |
-| **Game Engines** | Unity3D, Unreal Engine 5, UEFN |
+🚀 I bring **creativity + engineering** together to build interactive experiences:  
+
+- ✨ **Augmented Reality apps** (iOS, Android, WebAR, HoloLens)  
+- 🎲 **Hyper-casual & hybrid mobile games** (Unity3D, scalable C# code)  
+- 🧍 **Kinect/Azure Kinect motion games** (education & entertainment)  
+- 📡 **AI-powered AR Fitting Rooms & Booth Showcases**  
+- 🥽 **VR experiences** (Oculus, SteamVR, HTC Vive, Pico)  
+
+---
+
+## 🛠 Tech Stack & Tools  
+
+| Category          | Tools & Technologies |
+|-------------------|----------------------|
+| **Languages**     | C#, C++, Verse, Python |
+| **Game Engines**  | Unity3D, Unreal Engine 5, UEFN |
 | **XR Frameworks** | ARFoundation, MRTK, Oculus SDK, ARKit, ARCore |
-| **Multiplayer** | Photon PUN 2, Mirror, Unity Netcode |
+| **Networking**    | Photon PUN 2, Mirror, Unity Netcode |
 | **Hardware/SDKs** | Kinect 2 / Azure Kinect, Immersal, Vuforia, Wikitude |
-| **Other Tools** | Git, Blender, Firebase, Adobe CC, Visual Scripting |
-| **Platforms** | PC, Oculus Quest 2, Android, iOS, Lenovo VR, HoloLens |
-
----
-
-## 📈 GitHub Stats
+| **Tools**         | Git, Blender, Firebase, Adobe CC, Visual Scripting |
+| **Platforms**     | PC, Oculus Quest 2, Android, iOS, Lenovo VR, HoloLens |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=radical&hide=issues" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNoob07&layout=compact&theme=radical" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,python,blender,git,firebase,figma" />
 </p>
 
 ---
 
-## 🔧 Featured Projects
+## 📈 GitHub Stats  
 
-- **Teen Patti Multiplayer**  
-  Unity + Photon card game with real-time logic for six players
-
-- **Kinect Motion Game**  
-  "Red Light, Green Light" meets body-tracking motion control
-
-- **AI AR Fitting Room**  
-  Virtual try-on using ARCore/ARKit, powered by computer vision
-
-- **VR/AR Booth Showcase**  
-  Interactive tech demo rich with AI-driven interactions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=radical&hide=issues" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaNoob07&theme=radical" height="180px"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 Featured Projects  
 
-- [💼 LinkedIn](https://www.linkedin.com/in/swapon-islam-57a55111b/)  
-- 📫 Email: `gdev.swapon@gmail.com`  
-- 🌐 Portfolio: (https://gdev-portfolio.onrender.com/)
+🔹 **Teen Patti Multiplayer** 🎴  
+*Unity + Photon card game for six players with real-time networking*  
+
+🔹 **Kinect Motion Game** 🧍‍♂️  
+*"Red Light, Green Light" powered by body-tracking motion control*  
+
+🔹 **AI AR Fitting Room** 👕  
+*Virtual try-on experience using ARCore/ARKit + Computer Vision*  
+
+🔹 **VR/AR Booth Showcase** 🕶  
+*Interactive XR booth demo with AI-driven interactions*  
 
 ---
 
-## 🧠 Fav Quote
+## 🤝 Let’s Connect  
 
-> _"Innovation distinguishes between a leader and a follower." – Steve Jobs_
+<p align="center">
+  <a href="https://www.linkedin.com/in/swapon-islam-57a55111b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gdev.swapon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://gdev-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Favorite Quote  
+
+> _"Innovation distinguishes between a leader and a follower."_ – Steve Jobs  
 
 ---
 
