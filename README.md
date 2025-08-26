@@ -72,7 +72,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -88,7 +87,6 @@
   <a href="https://gdev-portfolio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
----
 
 ## 🧠 Quote I Live By  
 
