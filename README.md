@@ -83,4 +83,8 @@
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <img src="https://ghchart.rshah.org/00F5FF/AlphaNoob07" alt="AlphaNoob07's GitHub Contribution Chart" width="100%" />
 </div>
