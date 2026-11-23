@@ -5,7 +5,7 @@
   <br/><br/>
 
   <a href="https://github.com/AlphaNoob07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Spatial+Computing+%26+XR+Developer;Crafting+Unity+%26+Unreal+Experiences;Kinect+%26+Azure+Kinect+Motion+Tracking;AI+%2B+XR+Interactive+Fusion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Spatial+Computing+%26+XR+Developer;Crafting+Unity+%26+Unreal+Experiences;Kinect+%26+Azure+Kinect+Motion+Tracking;AI+%2B+XR+Interactive+Fusion" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -76,7 +76,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=tokyonight&hide=issues&bg_color=0d1117&hide_border=true&title_color=00F5FF&icon_color=00F5FF" height="165" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AlphaNoob07&show_icons=true&theme=tokyonight&hide=issues&bg_color=0d1117&hide_border=true&title_color=00F5FF&icon_color=00F5FF" height="165" alt="Swapon's GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaNoob07&theme=tokyonight&background=0d1117&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="165" alt="GitHub Streak" />
@@ -86,5 +86,10 @@
 
   <br/>
 
-  <img src="https://ghchart.rshah.org/00F5FF/AlphaNoob07" alt="AlphaNoob07's GitHub Contribution Chart" width="100%" />
+  <!-- Dark-mode Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlphaNoob07/AlphaNoob07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
